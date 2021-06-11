@@ -1512,7 +1512,7 @@ section {
 
 .contact .info-box i {
   font-size: 32px;
-  color: #ff5821;
+  color: #5cb85c;
   border-radius: 50%;
   padding: 8px;
   border: 2px dotted #ffded4;
@@ -1549,7 +1549,7 @@ section {
 .contact .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: #ed3c0d;
+  background: #5cb85c;
   text-align: left;
   padding: 15px;
   font-weight: 600;
@@ -1595,7 +1595,7 @@ section {
 }
 
 .contact .php-email-form input::focus, .contact .php-email-form textarea::focus {
-  background-color: #ff5821;
+  background-color: #5cb85c;
 }
 
 .contact .php-email-form input {
@@ -1607,7 +1607,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #ff5821;
+  background: #5cb85c;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1615,7 +1615,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #ff7e54;
+  background: #4cae4c;
 }
 
 @-webkit-keyframes animate-loading {
@@ -2006,8 +2006,8 @@ section {
 }
 
 .blog .blog-pagination li.active, .blog .blog-pagination li:hover {
-  background: #ff5821;
-  border: 1px solid #ff5821;
+  background: #5cb85c;
+  border: 1px solid #5cb85c;
 }
 
 .blog .blog-pagination li.active a, .blog .blog-pagination li:hover a {
@@ -2090,7 +2090,7 @@ section {
 }
 
 .blog .sidebar .categories ul a:hover {
-  color: #ff5821;
+  color: #5cb85c;
 }
 
 .blog .sidebar .categories ul a span {
