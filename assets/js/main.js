@@ -220,3 +220,11 @@
   });
 
 })(jQuery);
+
+$(window).on('load',function(){
+  var delayMs = 10; // delay in milliseconds
+  
+  setTimeout(function(){
+      $('#myModal').modal('show');
+  }, delayMs);
+});
