@@ -1,41 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
-  <title>PT Cahaya Intan Prima</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
-
-  <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
-  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-
-  <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
-
-  <!-- =======================================================
-  * Template Name: Flexor - v2.4.1
-  * Template URL: https://bootstrapmade.com/flexor-free-multipurpose-bootstrap-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
-</head>
-
-<body>
+<?php 
+require_once "view/navbar.php";
+?>
 
 <div class="modal fade" id="myModal">
   <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
@@ -53,56 +18,6 @@
         </section>
   </div>
 </div>
-
-
-
-
-
-  <!-- ======= Header ======= -->
-  <header id="header">
-    <div class="container d-flex">
-
-      <div class="logo mr-auto">
-        <h1 class="text-light"><a href="index.html"><img src="assets/img/logo.png" alt="logo" class="img-fluid"></a></h1>
-        <!-- Uncomment below if you prefer to use an image logo -->
-        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
-      </div>
-
-      <nav class="nav-menu d-none d-lg-block">
-        <ul>
-          <li class="active"><a href="index.html">Home</a></li>
-          <li class="drop-down"><a href="profile.html">Profile</a>
-            <ul>
-              <li><a href="profile.html">Visi dan Misi</a></li>
-              <li><a href="#">Bidang Usaha</a></li>
-              <li><a href="#">Jaringan Usaha</a></li>
-            </ul>
-          </li>
-          <li class="drop-down"><a href="#produk">Produk</a>
-            <ul>
-              <li><a href="produk.html">Pupuk Organik</a></li>
-              <li><a href="#">Mesin dan Bahan Penunjang</a></li>
-              <li><a href="#">Benih Lokal</a></li>
-            </ul>
-          </li>
-          <li class="drop-down"><a href="#jasa">Jasa</a>
-            <ul>
-              <li><a href="jasa.html">Rehabilitasi Lahan</a></li>
-              <li><a href="#">Pengolahan Limbah</a></li>
-              <li><a href="#">Pengendali Erosi Infra Struktur</a></li>
-            </ul>
-          </li>
-          <li><a href="galery.html">Galeri</a></li>
-          <li><a href="#berita">Berita</a>
-          </li>
-          <li><a href="contact.html">kontak</a></li>
-          <li><a href="karir.html">Karir</a></li>
-
-        </ul>
-      </nav><!-- .nav-menu -->
-
-    </div>
-  </header><!-- End Header -->
 
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
@@ -176,7 +91,7 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up">
             <div class="icon-box">
               <div class="icon"><i class="icofont-leaf"></i></div>
-              <h4 class="title"><a href="produk.html">Pupuk Organik</a></h4>
+              <h4 class="title"><a href="produk.php">Pupuk Organik</a></h4>
               <p class="description">Meningkatkan efektivitas tanaman dalam menyerap unsur hara dan meningkatkan kesuburan tanah</p>
             </div>
           </div>
@@ -212,7 +127,7 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up">
             <div class="icon-box">
               <div class="icon"><i class="icofont-computer"></i></div>
-              <h4 class="title"><a href="jasa.html">Rehabilitasi Lahan</a></h4>
+              <h4 class="title"><a href="jasa.php">Rehabilitasi Lahan</a></h4>
               <p class="description">Penanganan & pengendalian erosi dan sedimentasi (pada pembangunan infrastruktur jalan tol, akses jalan, bendungan</p>
             </div>
           </div>
@@ -252,7 +167,7 @@
                   </div>
     
                   <h2 class="entry-title">
-                    <a href="blog-single.html">Manfaat Penggunaan Pupuk Organik</a>
+                    <a href="blog-single.php">Manfaat Penggunaan Pupuk Organik</a>
                   </h2>
     
                   <div class="entry-meta">
@@ -266,7 +181,7 @@
                       Sejarah penggunaan pupuk pada dasarnya merupakan bagian daripada sejarah pertanian. Penggunaan pupuk diperkirakan sudah dimulai sejak permulaan manusia mengenal bercocok tanam, yaitu sekitar 5.000 tahun yang lalu.
                     </p>
                     <div class="read-more">
-                      <a href="blog-single.html">Read More</a>
+                      <a href="blog-single.php">Read More</a>
                     </div>
                   </div>
     
@@ -281,7 +196,7 @@
                   </div>
     
                   <h2 class="entry-title">
-                    <a href="blog-single.html">Jokowi dan Prabowo Harus Bisa Ajak Milenial Bangun Sektor Pertanian</a>
+                    <a href="blog-single.php">Jokowi dan Prabowo Harus Bisa Ajak Milenial Bangun Sektor Pertanian</a>
                   </h2>
     
                   <div class="entry-meta">
@@ -296,7 +211,7 @@
                       Ekonom Institute for Development of Economics and Finance (Indef), Bhima Yudhistira Adhinegara mengatakan kedua calon presiden RI yaitu Joko Widodo (Jokowi) dan Prabowo Subianto harus mampu membuat kaum milenial tertarik masuk ke sektor pertanian.
                     </p>
                     <div class="read-more">
-                      <a href="blog-single.html">Read More</a>
+                      <a href="blog-single.php">Read More</a>
                     </div>
                   </div>
     
@@ -311,7 +226,7 @@
                   </div>
     
                   <h2 class="entry-title">
-                    <a href="blog-single.html">Pembenah Tanah untuk Meningkatkan Produktivitas Lahan Pertanian</a>
+                    <a href="blog-single.php">Pembenah Tanah untuk Meningkatkan Produktivitas Lahan Pertanian</a>
                   </h2>
     
                   <div class="entry-meta">
@@ -325,7 +240,7 @@
                       Pembenah tanah (soil conditioner) dapat digunakan untuk mempercepat pemulihan kualitas tanah. Tulisan ini menguraikan prinsip pemanfaatan pembenah tanah, jenis dan klasifikasi pembenah tanah, 
                     </p>
                     <div class="read-more">
-                      <a href="blog-single.html">Read More</a>
+                      <a href="blog-single.php">Read More</a>
                     </div>
                   </div>
     
@@ -341,54 +256,6 @@
 
 
   <!-- ======= Footer ======= -->
-  <footer id="footer">
-
-    
-
-    <div class="footer-top">
-      <div class="col-lg-6 col-md-10 footer-contact container">
-        <div class="copyright">
-          <b>PT. Cahaya Intan Prima</b>
-        </div>
-        <div class="credits">
-          <!-- All the links in the footer should remain intact. -->
-          <!-- You can delete the links only if you purchased the pro version. -->
-          <!-- Licensing information: https://bootstrapmade.com/license/ -->
-          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/flexor-free-multipurpose-bootstrap-template/ -->
-         <p>Treasury Tower Lt.7 Unit F District 8 SCBD Lot 28
-          Jalan Jenderal Sudirman Kav 52-53 Kel. Senayan, Kec. Kebayoran baru
-          Jakarta Selatan 12190</p>
-          <p>
-          Email : info@cahayaintanprima.co.id
-          </p>
-        </div>
-      </div>
-      <div class="social-links text-center text-lg-right pt-3 pt-lg-0">
-        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-      </div>
-    </div>
-  </footer><!-- End Footer -->
-
-  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
-
-  <!-- Vendor JS Files -->
-  <script src="assets/vendor/jquery/jquery.min.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
-  <script src="assets/vendor/jquery-sticky/jquery.sticky.js"></script>
-  <script src="assets/vendor/venobox/venobox.min.js"></script>
-  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/aos/aos.js"></script>
-
-  <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
-
-</body>
-
-</html>
+<?php 
+require_once "view/footer.php";
+?>
