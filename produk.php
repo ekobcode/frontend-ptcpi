@@ -32,7 +32,7 @@ require_once "view/navbar.php";
               </h2>
 
               <div class="entry-content">
-                <b>PUPUK ORGANIK YANG DIPRODUKSI GREEN PLANET INDONESIA</b>
+                <b>PUPUK ORGANIK YANG DIPRODUKSI PT CAHAYA INTAN PRIMA</b>
 
                 <p>
                   Dalam aktivitas pertanian atau perkebunan hampir dapat dipastikan tidak terlepas dari kegiatan yang disebut pemupukan. Dampak dari kegiatan pemupukan diharapkan akan meningkatkan hasil pertanian atau perkebunan, sehingga nantinya mampu memberikan hasil yang optimal dan memberikan keuntungan dari segi ekonomi.
@@ -43,10 +43,10 @@ require_once "view/navbar.php";
                 </p>
 
                 <p>
-                  PT. Green planet Indonesia sebagai produsen pupuk organik yang sudah hampir 2 dekade didalam mengembangkan produk pupuk organiknya, menghasilkan produk-produk yang berkualitas dan ramah lingkungan. Pupuk organik ramah lingkungan yang dihasilkan oleh GPI bekerja dalam 2 cara, yaitu meningkatkan efektivitas tanaman dalam menyerap unsur hara dan meningkatkan kesuburan tanah, sehingga dengan tercapainya kedua hal tersebut, akan memberikan hasil penen yang melimpah.
+                  PT. Cahaya Intan Prima sebagai produsen pupuk organik yang sudah hampir 2 dekade didalam mengembangkan produk pupuk organiknya, menghasilkan produk-produk yang berkualitas dan ramah lingkungan. Pupuk organik ramah lingkungan yang dihasilkan oleh GPI bekerja dalam 2 cara, yaitu meningkatkan efektivitas tanaman dalam menyerap unsur hara dan meningkatkan kesuburan tanah, sehingga dengan tercapainya kedua hal tersebut, akan memberikan hasil penen yang melimpah.
                 </p>
 
-                <p>Produk-produk pupuk organik PT. Green Planet Indonesia mempunyai banyak keunggulan, diantaranya :</p>
+                <p>Produk-produk pupuk organik PT Cahaya Intan Prima mempunyai banyak keunggulan, diantaranya :</p>
                 <ul>
                   <li>Mengandung unsur hara makro dan unsur hara mikro yang lebih lengkap</li>
                   <li>Terbuat dari bahan-bahan alami  (Natural Raw Materials)</li>

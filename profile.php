@@ -72,7 +72,7 @@ require_once "view/navbar.php";
               </h2>
 
               <div class="entry-content">
-                <p>Seiiring dengan semakin baiknya tanggapan konsumen, meningkatnya permintaan, serta tingginya kesadaran konsumen akan pentingnya “Go Green” yang mengacu pada produk organik yang ramah lingkungan, PT. Green Planet Indonesia saat ini terus mengembangkan segmen market yang meliputi sektor perkebunan dan pertanian (pangan dan hortikultura) antara lain dengan melakukan kerjasama terhadap beberapa perusahaan baik milik pemerintah, swasta, pengusaha dan para petani.</p>
+                <p>Seiiring dengan semakin baiknya tanggapan konsumen, meningkatnya permintaan, serta tingginya kesadaran konsumen akan pentingnya “Go Green” yang mengacu pada produk organik yang ramah lingkungan, PT Cahaya Intan Prima Indonesia saat ini terus mengembangkan segmen market yang meliputi sektor perkebunan dan pertanian (pangan dan hortikultura) antara lain dengan melakukan kerjasama terhadap beberapa perusahaan baik milik pemerintah, swasta, pengusaha dan para petani.</p>
                 <p>Pengembangan usaha dilakukan dengan memperluas jaringan usaha agar dapat memberikan pelayanan terbaik bagi para pelanggan mendorong perusahaan membuka kantor-kantor cabang pemasaran di Tangerang-Banten, Pekanbaru - Riau, Aceh dan Pangkalan Bun - Kalimantan Tengah guna mendukung misi bersaing, mempermudah proses distribusi produk, dan memenuhi pasar perkebunan di Sumatera, Kalimantan dan Sulawesi.
 
                 </p>

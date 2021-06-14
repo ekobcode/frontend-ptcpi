@@ -39,17 +39,17 @@ require_once "view/navbar.php";
                 </p>
 
                 <p>
-                  Land Rehabilitation adalah salah satu divisi dari PT. Green Planet Indonesia yang sudah expert / berpengalaman lebih dari 15 tahun dalam menyediakan jasa rehabilitasi (reklamasi dan revegetasi) terhadap lahan rusak yang diakibatkan baik oleh aktivitas pertambangan (lahan pasca tambang) ataupun aktivitas lainnya.
+                  Land Rehabilitation adalah salah satu divisi dariPT Cahaya Intan Prima yang sudah expert / berpengalaman lebih dari 15 tahun dalam menyediakan jasa rehabilitasi (reklamasi dan revegetasi) terhadap lahan rusak yang diakibatkan baik oleh aktivitas pertambangan (lahan pasca tambang) ataupun aktivitas lainnya.
                 </p>
 
                 <p>
                   Dengan tujuan untuk memperbaiki dan memulihkan kembali lahan dan vegetasi yang telah rusak agar dapat berfungsi optimal sesuai dengan peruntukkannya. Setelah aktivitas pertambangan berakhir, lahan paska tambang harus direhabilitasi untuk meminimalisir efek kerusakan lingkungan yang ditimbulkannya.
                 </p>
 
-                <p>Produk-produk pupuk organik PT. Green Planet Indonesia mempunyai banyak keunggulan, diantaranya :</p>
+                <p>Produk-produk pupuk organik PT Cahaya Intan Prima mempunyai banyak keunggulan, diantaranya :</p>
                 
                 <p>
-                  Dengan teknologi yang kami miliki serta metode yang berkelanjutan, sesuai dengan regulasi pemerintah, kami menawarkan SOLUSI TOTAL untuk rehabilitasi lahan paska tambang (Green Planet Rehabilitation)
+                  Dengan teknologi yang kami miliki serta metode yang berkelanjutan, sesuai dengan regulasi pemerintah, kami menawarkan SOLUSI TOTAL untuk rehabilitasi lahan paska tambang 
                 </p>
 
                 <p><strong>KOMPETENSI KAMI :</strong></p>

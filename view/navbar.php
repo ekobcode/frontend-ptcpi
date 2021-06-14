@@ -50,23 +50,18 @@
       <nav class="nav-menu d-none d-lg-block">
         <ul>
           <li class="active"><a href="index.php">Home</a></li>
-          <li class="drop-down"><a href="profile.php">Profile</a>
-            <ul>
-              <li><a href="#">Visi dan Misi</a></li>
-              <li><a href="#">Bidang Usaha</a></li>
-              <li><a href="#">Jaringan Usaha</a></li>
-            </ul>
+          <li><a href="profile.php">Profile</a>
           </li>
           <li class="drop-down"><a href="produk.php">Produk</a>
             <ul>
-              <li><a href="#">Pupuk Organik</a></li>
+              <li><a href="produk.php">Pupuk Organik</a></li>
               <li><a href="#">Mesin dan Bahan Penunjang</a></li>
               <li><a href="#">Benih Lokal</a></li>
             </ul>
           </li>
           <li class="drop-down"><a href="jasa.php">Jasa</a>
             <ul>
-              <li><a href="#">Rehabilitasi Lahan</a></li>
+              <li><a href="jasa.php">Rehabilitasi Lahan</a></li>
               <li><a href="#">Pengolahan Limbah</a></li>
               <li><a href="#">Pengendali Erosi Infra Struktur</a></li>
             </ul>

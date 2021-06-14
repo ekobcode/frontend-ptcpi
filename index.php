@@ -11,6 +11,9 @@ require_once "view/navbar.php";
                       <i class="bx bx-news"></i>
                       <h4>Pengumuman</h4>
                       <p>Dalam rangka mematuhi peraturan pemerintah serta mendukung percepatan penanganan COVID-19 maka untuk sementara semua kegiatan tatap muka maupun kunjungan pabrik ditunda sampai pemberitahuan selanjutnya.</p>
+                      <p>
+                         Jika ada kebutuhan informasi, penawaran dan transaksi dilakukan via email : info@cahayaintanprima.co.id. 
+                      </p>
                       <button type="button" class="btn btn-success mx-auto" data-dismiss="modal">Tutup</button>
                     </div>
                   </div>
@@ -126,7 +129,7 @@ require_once "view/navbar.php";
         <div class="row">
           <div class="col-lg-4 col-md-6" data-aos="fade-up">
             <div class="icon-box">
-              <div class="icon"><i class="icofont-computer"></i></div>
+              <div class="icon"><i class="icofont-earth"></i></div>
               <h4 class="title"><a href="jasa.php">Rehabilitasi Lahan</a></h4>
               <p class="description">Penanganan & pengendalian erosi dan sedimentasi (pada pembangunan infrastruktur jalan tol, akses jalan, bendungan</p>
             </div>
