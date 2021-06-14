@@ -26,7 +26,7 @@ require_once "view/navbar.php";
             <article class="entry entry-single">
 
               <div class="entry-img">
-                <img src="assets/img/berita01.jpg" alt="" class="img-fluid">
+                <img src="assets/img/berita03.jpg" alt="" class="img-fluid">
               </div>
 
               <h2 class="entry-title">

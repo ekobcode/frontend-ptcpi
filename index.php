@@ -44,7 +44,7 @@ require_once "view/navbar.php";
                 PT Cahaya Intan Prima Indonesia adalah perusahaan swasta Nasional didirikan berdasarkan Keputusan Menteri Hukum dan Perundang-undangan R.I No : C-7322 HT.01.01.TH.2000 tertanggal 24 Maret 2000. Perusahaan bergerak dalam bidang penyediaan jasa pelayanan dan produk Pupuk Organik yang ramah lingkungan.
               </p>
               <div class="text-center">
-                <a href="#" class="more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
+                <a href="profile.php" class="more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
               </div>
             </div>
           </div>

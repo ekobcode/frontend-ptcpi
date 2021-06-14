@@ -22,7 +22,7 @@ require_once "view/navbar.php";
   
           <div class="section-title">
             <h2 data-aos="fade-up">Kontak</h2>
-            <p data-aos="fade-up">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+            <p data-aos="fade-up">Jika ada kebutuhan pertanyaan, informasi, penawaran dan transaksi silahkan untuk menguhungi alamat atau isi form dibawah ini </p>
           </div>
   
           <div class="row justify-content-center">
@@ -57,11 +57,11 @@ require_once "view/navbar.php";
               <form action="forms/contact.php" method="post" role="form" class="php-email-form">
                 <div class="form-row">
                   <div class="col-md-6 form-group">
-                    <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                    <input type="text" name="name" class="form-control" id="name" placeholder="Masukan Nama" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
                     <div class="validate"></div>
                   </div>
                   <div class="col-md-6 form-group">
-                    <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+                    <input type="email" class="form-control" name="email" id="email" placeholder="Masukan Email" data-rule="email" data-msg="Please enter a valid email" />
                     <div class="validate"></div>
                   </div>
                 </div>
@@ -70,15 +70,15 @@ require_once "view/navbar.php";
                   <div class="validate"></div>
                 </div>
                 <div class="form-group">
-                  <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                  <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Pesan"></textarea>
                   <div class="validate"></div>
                 </div>
                 <div class="mb-3">
-                  <div class="loading">Loading</div>
+                  <div class="loading">Silahkan Menunggu</div>
                   <div class="error-message"></div>
-                  <div class="sent-message">Your message has been sent. Thank you!</div>
+                  <div class="sent-message">Pesan Anda sudah terkirim. Terimakmasih!</div>
                 </div>
-                <div class="text-center"><button type="submit">Send Message</button></div>
+                <div class="text-center"><button type="submit">Kirim Pesan</button></div>
               </form>
             </div>
   
