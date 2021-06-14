@@ -43,6 +43,9 @@ require_once "view/navbar.php";
               <p>
                 PT Cahaya Intan Prima Indonesia adalah perusahaan swasta Nasional didirikan berdasarkan Keputusan Menteri Hukum dan Perundang-undangan R.I No : C-7322 HT.01.01.TH.2000 tertanggal 24 Maret 2000. Perusahaan bergerak dalam bidang penyediaan jasa pelayanan dan produk Pupuk Organik yang ramah lingkungan.
               </p>
+              <div class="text-center">
+                <a href="profile.php" class="more-btn">Baca<i class="bx bx-chevron-right"></i></a>
+              </div>
             </div>
           </div>
           <div class="col-xl-8 col-lg-7 d-flex">
@@ -180,9 +183,7 @@ require_once "view/navbar.php";
                     <p>
                       Sejarah penggunaan pupuk pada dasarnya merupakan bagian daripada sejarah pertanian. Penggunaan pupuk diperkirakan sudah dimulai sejak permulaan manusia mengenal bercocok tanam, yaitu sekitar 5.000 tahun yang lalu.
                     </p>
-                    <div class="read-more">
-                      <a href="blog-single.php">Read More</a>
-                    </div>
+
                   </div>
     
                 </article><!-- End blog entry -->
@@ -210,9 +211,7 @@ require_once "view/navbar.php";
                     <p>
                       Ekonom Institute for Development of Economics and Finance (Indef), Bhima Yudhistira Adhinegara mengatakan kedua calon presiden RI yaitu Joko Widodo (Jokowi) dan Prabowo Subianto harus mampu membuat kaum milenial tertarik masuk ke sektor pertanian.
                     </p>
-                    <div class="read-more">
-                      <a href="blog-single.php">Read More</a>
-                    </div>
+
                   </div>
     
                 </article><!-- End blog entry -->
@@ -239,9 +238,7 @@ require_once "view/navbar.php";
                     <p>
                       Pembenah tanah (soil conditioner) dapat digunakan untuk mempercepat pemulihan kualitas tanah. Tulisan ini menguraikan prinsip pemanfaatan pembenah tanah, jenis dan klasifikasi pembenah tanah, 
                     </p>
-                    <div class="read-more">
-                      <a href="blog-single.php">Read More</a>
-                    </div>
+
                   </div>
     
                 </article><!-- End blog entry -->

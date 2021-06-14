@@ -31,7 +31,7 @@ require_once "view/navbar.php";
               <div class="info-box">
                 <i class="bx bx-map"></i>
                 <h3>Alamat</h3>
-                <p>Treasury Tower Lt.7 Unit F District 8, Jakarta Selatan 12190</p>
+                <p>Treasury Tower Lt.7 Unit F District 8, Jakarta Selatan 12190 </p>
               </div>
             </div>
   

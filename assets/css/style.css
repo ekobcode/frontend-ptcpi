@@ -1506,6 +1506,7 @@ section {
 --------------------------------------------------------------*/
 .contact .info-box {
   color: #313030;
+  height: 150px;
   box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
   padding: 20px;
 }
