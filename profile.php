@@ -28,25 +28,25 @@ require_once "view/navbar.php";
 
               <div class="entry-content">
                 <p>
-                PT Green Planet Indonesia adalah perusahaan swasta Nasional didirikan berdasarkan Keputusan Menteri Hukum dan Perundang-undangan R.I No : C-7322 HT.01.01.TH.2000 tertanggal 24 Maret 2000. Perusahaan bergerak dalam bidang penyediaan jasa pelayanan dan produk Pupuk Organik yang ramah lingkungan.
+                PT Cahaya Intan Prima adalah perusahaan swasta Nasional didirikan berdasarkan Keputusan Menteri Hukum dan Perundang-undangan R.I No : C-7322 HT.01.01.TH.2000 tertanggal 24 Maret 2000. Perusahaan bergerak dalam bidang penyediaan jasa pelayanan dan produk Pupuk Organik yang ramah lingkungan.
                 </p>
                 <p>
-                Empat tahun pertama PT. Green Planet Indonesia berada dalam tahapan pengembangan melalui riset dan penelitian yang bekerjasama dengan Institut Pertanian Bogor melalui laboratorium Bioteknologi Hutan dan Lingkungan, Pusat Penelitian Bioteknologi IPB. Disamping itu, perusahaan melakukan kerjasama dengan perusahaan-perusahaan seperti PT. Astra Agro Lestari, PT. Chevron Pasific Indonesia dan PT. KALTIM PRIMA COAL, dll.
+                Empat tahun pertama PT Cahaya Intan Prima berada dalam tahapan pengembangan melalui riset dan penelitian yang bekerjasama dengan Institut Pertanian Bogor melalui laboratorium Bioteknologi Hutan dan Lingkungan, Pusat Penelitian Bioteknologi IPB. Disamping itu, perusahaan melakukan kerjasama dengan perusahaan-perusahaan seperti PT. Astra Agro Lestari, PT. Chevron Pasific Indonesia dan PT. KALTIM PRIMA COAL, dll.
                 </p>
                 <p>
                 Empat tahun kedua, perusahaan memasuki tahapan komersial, dengan mensuplai produk-produk hasil
                 </p>
 
                 <p>
-                Divisi Bio Agro Business Trading merupakan salah satu divisi PT. Green Planet Indonesia yang bertanggung jawab dalam pengembangan dan suplai produk-produk hasil penelitian pada sektor usaha perkebunan dan pertanian. Guna memenuhi kebutuhan pasar yang lebih spesifik dan besar, maka PT. Green Planet mulai memproduksi sendiri dan mengimport produk ramah lingkungan tersebut diantaranya : Pupuk Organik Granule (POG), Pupuk Organik Cair (POC), Pembenah tanah (Soil Improvement), Pupuk Organik + Soil Improvement dari USA.
+                Divisi Bio Agro Business Trading merupakan salah satu divisi PT Cahaya Intan Prima yang bertanggung jawab dalam pengembangan dan suplai produk-produk hasil penelitian pada sektor usaha perkebunan dan pertanian. Guna memenuhi kebutuhan pasar yang lebih spesifik dan besar, maka PT. Green Planet mulai memproduksi sendiri dan mengimport produk ramah lingkungan tersebut diantaranya : Pupuk Organik Granule (POG), Pupuk Organik Cair (POC), Pembenah tanah (Soil Improvement), Pupuk Organik + Soil Improvement dari USA.
                 </p>
 
                 <p>
-                PT. Green Planet Indonesia terus melakukan pengembangan usaha dengan memperluas jaringan usaha agar dapat memberikan pelayanan terbaik bagi para pelanggan serta terus melakukan Riset dan pengembangan, baik kerjasama dengan lembaga-lembaga penelitian seperti Pusat Penelitian Kelapa Sawit (PPKS) dan Balai Besar Penelitian Tanaman Padi (BB-Padi) maupun dengan pihak swasta.
+                PT Cahaya Intan Prima terus melakukan pengembangan usaha dengan memperluas jaringan usaha agar dapat memberikan pelayanan terbaik bagi para pelanggan serta terus melakukan Riset dan pengembangan, baik kerjasama dengan lembaga-lembaga penelitian seperti Pusat Penelitian Kelapa Sawit (PPKS) dan Balai Besar Penelitian Tanaman Padi (BB-Padi) maupun dengan pihak swasta.
                 </p>
 
                 <p>
-                Dalam perjalanan kegiatan usaha PT. Green Planet Indonesia juga telah mendapat kepercayaan untuk menjadi distributor dari beberapa produk “Principal”  yaitu :
+                Dalam perjalanan kegiatan usaha PT Cahaya Intan Prima juga telah mendapat kepercayaan untuk menjadi distributor dari beberapa produk “Principal”  yaitu :
                 </p>
 
                 <ul type="number">
@@ -56,7 +56,7 @@ require_once "view/navbar.php";
                 </ul>
 
                 <p>
-                Seiring dengan berkembangnya berbagai jenis usaha PT Green Planet Indonesia yang menuntut System Management yang profesional, maka pada tahun 2014 PT Green Planet Indonesia pun mendapatkan sertifikat ISO 9001, ISO 14001, OHSAS 18001. Dengan diterapkannya GPI IMS (Green Planet Indonesia – Integrated Management System) ini maka profesionalitas PT GPI dalam bekerja melayani kepuasan para klien tidak perlu diragukan lagi.
+                Seiring dengan berkembangnya berbagai jenis usaha PT Cahaya Intan Prima yang menuntut System Management yang profesional, maka pada tahun 2014 PT Cahaya Intan Prima pun mendapatkan sertifikat ISO 9001, ISO 14001, OHSAS 18001. Dengan diterapkannya CIP IMS (Cahaya Intan Prima – Integrated Management System) ini maka profesionalitas PT CIP dalam bekerja melayani kepuasan para klien tidak perlu diragukan lagi.
                 </p>
 
                 </div><!-- End blog entries list -->

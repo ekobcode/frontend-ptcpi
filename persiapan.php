@@ -26,20 +26,22 @@ require_once "view/navbar.php";
           <div class="col-lg-8 entries">
             <article class="entry entry-single">
 
+            <div class="entry-img">
+                <img src="assets/img/persiapan.jpg" alt="" class="img-fluid">
+              </div>
+
+
               <h2 class="entry-title">
-                <a href="blog-single.html">Jasa</a>
+                <a href="blog-single.html">Persiapan Lahan</a>
               </h2>
-                <p>
-                    PT Cahaya Intan Prima juga menyediakan Jasa Kontraktor Lingkungan dibidang perbaikan lingkungan hidup, yang terbagi dalam 2 divisi yaitu :
-                </p>
-                <ol>
-                  <li>Land Rehabilitation ( Rehabilitasi/Revegetasi Lahan Paska Tambang )</li>
-                  <li>Waste Management ( Kontraktor Pengolahan Limbah )</li>
-                </ol>
+
               <div class="entry-content">
 
+                <p>
+                Pekerjaan persiapan lahan (land preparation) merupakan bagian dari kegiatan reklamasi yang bertujuan untuk membentuk dan menata kembali kondisi dan kontur lahan agar memenuhi persyaratan untuk tumbuh kembang tanaman (siap untuk di-revegetasi). Pengertian Reklamasi sendiri adalah kegiatan yang bertujuan untuk memperbaiki atau memulihkan kembali lahan dan vegetasi yang rusak/ terganggu sebagai akibat kegiatan usaha pertambangan agar dapat berfungsi dan berdayaguna secara optimal sesuai dengan peruntukannya.
+                </p>
 
-
+                
             </article><!-- End blog entry -->
 
          
@@ -49,15 +51,15 @@ require_once "view/navbar.php";
           <div class="col-lg-4">
 
             <div class="sidebar">
-              <h3 class="sidebar-title">Jasa</h3>
+              <h3 class="sidebar-title">Rehabilitasi Lahan</h3>
               <div class="sidebar-item categories">
                 <ul>
                   <hr>
-                  <li><a href="rehabilitasi.php">Rehabilitasi Lahan</a></li>
+                  <li><a href="#">Persiapan Lahan</a></li>
                   <hr>
-                  <li><a href="pengolahan.php">Pengolahan Limbah</a></li>
+                  <li><a href="#">Hydrosering</a></li>
                   <hr>
-                  <li><a href="pengendalian.php">Pengendali Erosi dan Infra Struktur</a></li>
+                  <li><a href="#">Penanaman Pohon</a></li>
                   <hr>
                 </ul>
 

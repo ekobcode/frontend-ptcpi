@@ -10,7 +10,7 @@ require_once "view/navbar.php";
       <div class="container">
         <ol>
           <li><a href="index.html">Home</a></li>
-          <li><a href="berita.html">Berita Pupuk</a></li>
+          <li><a href="berita.html">Berita</a></li>
         </ol>
       </div>
     </section><!-- End Breadcrumbs -->
@@ -30,7 +30,7 @@ require_once "view/navbar.php";
               </div>
 
               <h2 class="entry-title">
-                <a href="blog-single.html">Pembenah Tanah untuk Meningkatkan Produktivitas Lahan Pertanian</a>
+                <a href="#">Pembenah Tanah untuk Meningkatkan Produktivitas Lahan Pertanian</a>
               </h2>
 
               <div class="entry-content">

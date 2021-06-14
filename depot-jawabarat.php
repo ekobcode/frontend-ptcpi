@@ -23,25 +23,25 @@ require_once "view/navbar.php";
 
           <div class="col-lg-8 entries">
             <div class="section-title">
-              <h2 data-aos="fade-up">Galeri</h2>
+              <h2 data-aos="fade-up">Depot Padi Jawa Barat</h2>
             </div>
 
              <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
               <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                 <div class="portfolio-info">
-                  <a href="assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 2"> <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt=""></i></a>
+                  <a href="assets/img/berita01.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 2"> <img src="assets/img/berita01.jpg" class="img-fluid" alt=""></i></a>
                 </div>
               </div>
 
               <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                 <div class="portfolio-info">
-                  <a href="assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 2"> <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt=""></i></a>
+                  <a href="assets/img/berita02.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 2"> <img src="assets/img/berita02.jpg" class="img-fluid" alt=""></i></a>
                 </div>
               </div>
 
               <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                 <div class="portfolio-info">
-                  <a href="assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 2"> <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt=""></i></a>
+                  <a href="assets/img/berita03.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 2"> <img src="assets/img/berita03.jpg" class="img-fluid" alt=""></i></a>
                 </div>
               </div>
             </div>
@@ -56,7 +56,7 @@ require_once "view/navbar.php";
               <div class="sidebar-item categories">
                 <ul>
                   <hr>
-                  <li><a href="depot-jawabarat.php">Depot Padi Jawa Barat</a></li>
+                  <li><a href="#">Depot Padi Jawa Barat</a></li>
                   <hr>
                   <li><a href="#">Depot Timun Sukabumi</a></li>
                   <hr>

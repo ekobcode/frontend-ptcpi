@@ -42,9 +42,6 @@ require_once "view/navbar.php";
                 <p>
                   Similique neque nam consequuntur ad non maxime aliquam quas. Quibusdam animi praesentium. Aliquam et laboriosam eius aut nostrum quidem aliquid dicta zena prista maraeda talan mas indera.
                 </p>
-                <div class="read-more">
-                  <a href="blog-single.html">Read More</a>
-                </div>
               </div>
 
             </article><!-- End blog entry -->
@@ -71,9 +68,7 @@ require_once "view/navbar.php";
                 <p>
                   Ad impedit qui officiis est in non aliquid veniam laborum. Id ipsum qui aut. Sit aliquam et quia molestias laboriosam. Tempora nam odit omnis eum corrupti qui aliquid excepturi molestiae. Facilis et sint quos sed voluptas. Maxime sed tempore enim omnis non alias.
                 </p>
-                <div class="read-more">
-                  <a href="blog-single.html">Read More</a>
-                </div>
+    
               </div>
 
             </article><!-- End blog entry -->
@@ -100,9 +95,7 @@ require_once "view/navbar.php";
                 <p>
                   Aut iste neque ut illum qui perspiciatis similique recusandae non. Fugit autem dolorem labore omnis et. Eum temporibus fugiat voluptate enim tenetur sunt omnis tara kero pakla metaruna nedore stan.
                 </p>
-                <div class="read-more">
-                  <a href="blog-single.html">Read More</a>
-                </div>
+    
               </div>
 
             </article><!-- End blog entry -->
@@ -129,9 +122,7 @@ require_once "view/navbar.php";
                 <p>
                   Aspernatur rerum perferendis et sint. Voluptates cupiditate voluptas atque quae. Rem veritatis rerum enim et autem. Saepe atque cum eligendi eaque iste omnis a qui.
                 </p>
-                <div class="read-more">
-                  <a href="blog-single.html">Read More</a>
-                </div>
+           
               </div>
 
             </article><!-- End blog entry -->
@@ -158,9 +149,7 @@ require_once "view/navbar.php";
                 <p>
                   Quidem et eum explicabo quia illo numquam nostrum corrupti provident. Quia aspernatur et et facere. Quisquam maiores natus nihil incidunt ipsum est optio eum maxime. Dignissimos vitae explicabo. Corrupti esse sed a a. Laborum optio reprehenderit quia dena per.
                 </p>
-                <div class="read-more">
-                  <a href="blog-single.html">Read More</a>
-                </div>
+           
               </div>
 
             </article><!-- End blog entry -->
@@ -187,9 +176,7 @@ require_once "view/navbar.php";
                 <p>
                   Modi dolor et placeat ut iure ad. Qui perferendis fugit quo et cumque facilis et debitis rerum. Repellendus animi qui eos. Unde perferendis et tempora Ratione porro omnis magn delata sera marto ned.
                 </p>
-                <div class="read-more">
-                  <a href="blog-single.php">Read More</a>
-                </div>
+            
               </div>
 
             </article><!-- End blog entry -->

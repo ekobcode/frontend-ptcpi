@@ -43,9 +43,6 @@ require_once "view/navbar.php";
               <p>
                 PT Cahaya Intan Prima Indonesia adalah perusahaan swasta Nasional didirikan berdasarkan Keputusan Menteri Hukum dan Perundang-undangan R.I No : C-7322 HT.01.01.TH.2000 tertanggal 24 Maret 2000. Perusahaan bergerak dalam bidang penyediaan jasa pelayanan dan produk Pupuk Organik yang ramah lingkungan.
               </p>
-              <div class="text-center">
-                <a href="profile.php" class="more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
-              </div>
             </div>
           </div>
           <div class="col-xl-8 col-lg-7 d-flex">
@@ -130,21 +127,21 @@ require_once "view/navbar.php";
           <div class="col-lg-4 col-md-6" data-aos="fade-up">
             <div class="icon-box">
               <div class="icon"><i class="icofont-earth"></i></div>
-              <h4 class="title"><a href="jasa.php">Rehabilitasi Lahan</a></h4>
+              <h4 class="title"><a href="rehabilitasi.php">Rehabilitasi Lahan</a></h4>
               <p class="description">Penanganan & pengendalian erosi dan sedimentasi (pada pembangunan infrastruktur jalan tol, akses jalan, bendungan</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="icofont-chart-bar-graph"></i></div>
-              <h4 class="title"><a href="">Pengelolaan Limbah</a></h4>
+              <h4 class="title"><a href="pengolahan.php">Pengelolaan Limbah</a></h4>
               <p class="description">Didukung dengan pengalaman, profesional, dan peralatan modern milik perusahaan</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="icofont-earth"></i></div>
-              <h4 class="title"><a href="">Pengendali Erosi Infra Struktur</a></h4>
+              <h4 class="title"><a href="pengendalian.php">Pengendali Erosi Infra Struktur</a></h4>
               <p class="description">Sangat membantu dalam pengendalian erosi pada lereng tepi jalan, bendungan maupun Lapangan Terbang</p>
             </div>
           </div>
