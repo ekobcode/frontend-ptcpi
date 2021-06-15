@@ -41,6 +41,64 @@ require_once "view/navbar.php";
                 Pekerjaan persiapan lahan (land preparation) merupakan bagian dari kegiatan reklamasi yang bertujuan untuk membentuk dan menata kembali kondisi dan kontur lahan agar memenuhi persyaratan untuk tumbuh kembang tanaman (siap untuk di-revegetasi). Pengertian Reklamasi sendiri adalah kegiatan yang bertujuan untuk memperbaiki atau memulihkan kembali lahan dan vegetasi yang rusak/ terganggu sebagai akibat kegiatan usaha pertambangan agar dapat berfungsi dan berdayaguna secara optimal sesuai dengan peruntukannya.
                 </p>
 
+                <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+                  <div class="col-lg-4 col-md-6 portfolio-item filter-app" style="padding-bottom:10px">
+                    <div class="portfolio-info">
+                      <a href="assets/img/jasa/01.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 2"> <img src="assets/img/jasa/01.jpg" class="img-fluid" alt=""></i></a>
+                    </div>
+                  </div>
+                  <div class="col-lg-4 col-md-6 portfolio-item filter-app" style="padding-bottom:10px">
+                    <div class="portfolio-info">
+                      <a href="assets/img/jasa/02.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 2"> <img src="assets/img/jasa/02.jpg" class="img-fluid" alt=""></i></a>
+                    </div>
+                  </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-app" style="padding-bottom:10px">
+                        <div class="portfolio-info">
+                        <a href="assets/img/jasa/03.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 2"> <img src="assets/img/jasa/03.jpg" class="img-fluid" alt=""></i></a>
+                      </div>
+                    </div>
+
+                   
+                  <div class="col-lg-4 col-md-6 portfolio-item filter-app" style="padding-bottom:10px">
+                    <div class="portfolio-info">
+                      <a href="assets/img/jasa/04.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 2"> <img src="assets/img/jasa/04.jpg" class="img-fluid" alt=""></i></a>
+                    </div>
+                  </div>
+                  <div class="col-lg-4 col-md-6 portfolio-item filter-app" style="padding-bottom:10px">
+                    <div class="portfolio-info">
+                      <a href="assets/img/jasa/05.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 2"> <img src="assets/img/jasa/05.jpg" class="img-fluid" alt=""></i></a>
+                    </div>
+                  </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-app" style="padding-bottom:10px">
+                        <div class="portfolio-info">
+                        <a href="assets/img/jasa/06.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 2"> <img src="assets/img/jasa/06.jpg" class="img-fluid" alt=""></i></a>
+                      </div>
+                    </div>
+
+                  <div class="col-lg-4 col-md-6 portfolio-item filter-app" style="padding-bottom:10px">
+                    <div class="portfolio-info">
+                      <a href="assets/img/jasa/07.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 2"> <img src="assets/img/jasa/07.jpg" class="img-fluid" alt=""></i></a>
+                    </div>
+                    
+                  </div>
+                  <div class="col-lg-4 col-md-6 portfolio-item filter-app" style="padding-bottom:10px">
+                    <div class="portfolio-info" >
+                      <a href="assets/img/jasa/08.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 2"> <img src="assets/img/jasa/08.jpg" class="img-fluid" alt="" ></i></a>
+                    </div>
+                  </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-app" style="padding-bottom:10px">
+                        <div class="portfolio-info">
+                        <a href="assets/img/jasa/09.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 2"> <img src="assets/img/jasa/09.jpg" class="img-fluid" alt=""></i></a>
+                      </div>
+                    </div>
+
+
+                </div>
+            
+
                 
             </article><!-- End blog entry -->
 

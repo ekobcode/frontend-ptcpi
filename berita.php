@@ -19,10 +19,20 @@ require_once "view/navbar.php";
     <section id="blog" class="blog">
       <div class="container">
 
+      <div class="section-title">
+            <h2 data-aos="fade-up">Berita</h2>
+           
+          </div>
         <div class="row">
 
+      
+  
+
           <div class="col-lg-4  col-md-6 d-flex align-items-stretch" data-aos="fade-up">
+          
             <article class="entry">
+
+           
 
               <div class="entry-img">
                 <img src="assets/img/blog-1.jpg" alt="" class="img-fluid">

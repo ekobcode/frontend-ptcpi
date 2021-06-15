@@ -24,6 +24,7 @@ require_once "view/navbar.php";
           <div class="col-lg-8 entries">
             <div class="section-title">
               <h2 data-aos="fade-up">Galeri</h2>
+              <p  data-aos="fade-up">Hasil-hasil demplot maupun kebun percobaan.</p>
             </div>
 
              <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">

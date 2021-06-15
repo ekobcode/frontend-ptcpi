@@ -4,6 +4,8 @@ require_once "view/navbar.php";
 
 
 
+
+
   <main id="main">
 
     <!-- ======= Breadcrumbs ======= -->
