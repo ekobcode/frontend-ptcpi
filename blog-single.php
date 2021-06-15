@@ -60,14 +60,7 @@ require_once "view/navbar.php";
             <div class="sidebar">
 
               <h3 class="sidebar-title">Pencarian</h3>
-              <div class="sidebar-item search-form">
-                <form action="">
-                  <input type="text">
-                  <button type="submit"><i class="icofont-search"></i></button>
-                </form>
-
-              </div><!-- End sidebar search formn-->
-
+              
               <h3 class="sidebar-title">Postingan Terbaru</h3>
               <div class="sidebar-item recent-posts">
                 <div class="post-item clearfix">
