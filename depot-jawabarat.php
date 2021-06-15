@@ -27,19 +27,19 @@ require_once "view/navbar.php";
             </div>
 
              <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
-              <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div class="col-lg-4 col-md-6 portfolio-item filter-app"  style="padding-bottom:10px">
                 <div class="portfolio-info">
                   <a href="assets/img/berita01.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 2"> <img src="assets/img/berita01.jpg" class="img-fluid" alt=""></i></a>
                 </div>
               </div>
 
-              <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div class="col-lg-4 col-md-6 portfolio-item filter-app"  style="padding-bottom:10px">
                 <div class="portfolio-info">
                   <a href="assets/img/berita02.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 2"> <img src="assets/img/berita02.jpg" class="img-fluid" alt=""></i></a>
                 </div>
               </div>
 
-              <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div class="col-lg-4 col-md-6 portfolio-item filter-app"  style="padding-bottom:10px">
                 <div class="portfolio-info">
                   <a href="assets/img/berita03.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 2"> <img src="assets/img/berita03.jpg" class="img-fluid" alt=""></i></a>
                 </div>
